@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "type",
+  "version": "1",
+  "description": "type",
+  "main": "1",
+  "repository": "type",
+  "author": "type",
+  "license": "type",
+  "private": null
+}
