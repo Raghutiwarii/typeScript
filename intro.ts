@@ -2,7 +2,7 @@
 let fname = "Raghu"
 console.log(fname);
 
-function sum(a:number,b:number):number{
+function sum(a:number,b:number){
     return a+b;
 }
 //console.log(sum(12,"Raghu")); // error 
